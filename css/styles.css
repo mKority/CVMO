@@ -32,6 +32,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #EAF6F6;
+}
+
 hr {
     border-style: dotted;
     border-color: #EAF6F6;
@@ -150,4 +154,10 @@ p {
 .contact-message {
     width: 40%;
     margin: auto;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding:20px 0;
 }
